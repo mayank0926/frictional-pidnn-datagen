@@ -2,7 +2,7 @@ import os
 import numpy as np
 
 from gym import utils
-from mujoco_collection_1.envs import fetch_env
+from frictional_pidnn_datagen.envs import fetch_env
 
 
 # Ensure we get the path separator correct on windows

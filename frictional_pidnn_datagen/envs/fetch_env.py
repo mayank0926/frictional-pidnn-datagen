@@ -1,7 +1,7 @@
 import numpy as np
 
 from gym.envs.robotics import rotations, utils
-from mujoco_collection_1.envs import robot_env
+from frictional_pidnn_datagen.envs import robot_env
 
 
 def goal_distance(goal_a, goal_b):

@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
       long_description = fh.read()
 
 setup(name='frictional_pidnn_datagen',
-      version='0.0.1',
+      version='0.0.2',
       author='Mayank Yadav',
       author_email='yadav.mayank2000@gmail.com',
       description='Data genration for frictional PIDNN through MuJoCo',
